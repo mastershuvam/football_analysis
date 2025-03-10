@@ -1,0 +1,33 @@
+# Ignore Python bytecode files
+*.pyc
+__pycache__/
+
+# Ignore virtual environment directories
+venv/
+env/
+football/
+
+# Ignore output videos
+output_videos/
+
+# Ignore stub files
+stubs/
+
+# Ignore any log files
+*.log
+
+# Ignore any temporary files
+*.tmp
+*.temp
+
+# Ignore any compiled files
+*.so
+*.dll
+*.dylib
+
+# Ignore any Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore any system files
+.DS_Store
+Thumbs.db
